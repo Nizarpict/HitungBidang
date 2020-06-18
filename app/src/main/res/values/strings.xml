@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HitungBidang</string>
+    <string name="menghitungpersegipanjang">MenghitungPersegiPanjang</string>
+    <string name="masukanpanjangbro">MasukanPanjangBro</string>
+    <string name="masukanlebarbro">MasukanLebarBro</string>
+    <string name="hitung">Hitung</string>
+    <string name="luaspersegipanjang">LuasPersegiPanjang</string>
+    <string name="hasilluasbro">HasilLuasBro</string>
+    <string name="kelilingpersegipanjang">KelilingPersegipanjang</string>
+    <string name="hasilkeliling">HasilKeliling</string>
+    <string name="maindulu">MainDulu</string>
+    <string name="persegipanjang">PersegiPanjang</string>
+    <string name="masukanpanjang">MasukanPanjang</string>
+    <string name="menghitungpersegi">MenghitungPersegi</string>
+    <string name="masukanlebar">MasukanLebar</string>
+    <string name="hasilluas">HasilLuas</string>
+    <string name="kelilingpersegi">KelilingPersegi</string>
+    <string name="hasilkelilingbro">HasilKelilingBro</string>
+    <string name="luaspersegi">LuasPersegi</string>
+    <string name="persegi">Persegi</string>
+    <string name="persegipanjang">PersegiPanjang</string>
+    <string name="masukanpanjangbro">MasukanPanjangBro</string>
+    <string name="menghitungpersegipanjang">MenghitungPersegiPanjang</string>
+    <string name="luaspersegibro">LuasPersegiBro</string>
+    <string name="hasilluas">HasilLuas</string>
+    <string name="kelilingpersegipanjang">KelilingPersegipanjang</string>
+    <string name="hasilkeliling">HasilKeliling</string>
+</resources>
